@@ -10,16 +10,19 @@ const HomePage = () => {
             title={"We have a surprise for you"}
             img={"../images/home_grid_1.jpg"}
             link={"See terms and conditions"}
+            href={"https://www.amazon.in/gp/help/customer/display.html?nodeId=202140280"}
           />
           <HomePageCard
             title={"Watch The Rings of Power"}
             img={"../images/home_grid_2.jpg"}
             link={"Start streaming now"}
+            href={"https://www.youtube.com/watch?v=uimVN4ZHb7g"}
           />
           <HomePageCard
             title={"Unlimited Streaming"}
             img={"../images/home_grid_3.jpg"}
             link={"Find out more"}
+            href={"https://en.wikipedia.org/wiki/List_of_Amazon_Prime_Video_original_films"}
           />
           <HomePageCard
             title={"More titles to explore"}

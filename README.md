@@ -1,12 +1,6 @@
-# Amazon Clone in React, Tailwind CSS & Redux
+# Amazon Clone in React, Tailwind CSS & Redux.
 
-![amazon_clone_v6](https://user-images.githubusercontent.com/17878339/231386523-1b0f7bb9-b83d-4a3e-a1bf-12405ebebbd2.png)
-
-This repository contains an Amazon Clone with React, Tailwind CSS and Redux.
-
-## YouTube
-
-[Watch the Tutorial](https://youtu.be/pnnblIo1iO0)
+This repository contains an Amazon Clone with React, Tailwind CSS & Redux.
 
 ## Features
 
@@ -18,7 +12,7 @@ Contains Carousel containing images and video:
 
 ### Nav Bar
 
-Complete with search box that offers suggestions as you type: 
+Complete with search box that offers suggestions as you type:
 
 ![NavBar](https://user-images.githubusercontent.com/17878339/230745497-4136d398-1991-4d96-a3ef-de7e6ca9977a.gif)
 
